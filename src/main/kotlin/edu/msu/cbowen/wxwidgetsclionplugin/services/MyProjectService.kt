@@ -1,7 +1,7 @@
-package com.github.charlesowen.wxwidgetsclionplugin.services
+package edu.msu.cbowen.wxwidgetsclionplugin.services
 
 import com.intellij.openapi.project.Project
-import com.github.charlesowen.wxwidgetsclionplugin.MyBundle
+import edu.msu.cbowen.wxwidgetsclionplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,4 +1,4 @@
-package com.github.charlesowen.wxwidgetsclionplugin
+package edu.msu.cbowen.wxwidgetsclionplugin
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile

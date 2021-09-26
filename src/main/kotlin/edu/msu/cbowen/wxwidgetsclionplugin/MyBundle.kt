@@ -1,4 +1,4 @@
-package com.github.charlesowen.wxwidgetsclionplugin
+package edu.msu.cbowen.wxwidgetsclionplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
